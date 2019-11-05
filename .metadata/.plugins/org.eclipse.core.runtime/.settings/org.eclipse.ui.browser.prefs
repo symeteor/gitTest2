@@ -1,0 +1,4 @@
+browser-choice=1
+browsers=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<web-browsers current\="0">\r\n<system/>\r\n<external location\="C\:\\Program Files\\Internet Explorer\\iexplore.exe" name\="Internet Explorer"/>\r\n<external location\="C\:\\Users\\textar\\AppData\\Local\\Google\\Chrome\\Application\\chrome.exe" name\="Chrome"/>\r\n</web-browsers>
+eclipse.preferences.version=1
+internalWebBrowserHistory=http\://localhost\:8080/appdesign4/|*|http\://localhost\:8080/appdesign1/jsp/ProductForm.jsp|*|http\://localhost\:8080/appdesign1/jsp/save-product|*|http\://localhost\:8080/appdesign1/|*|file\:/C\:/workspace-sts/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1572837383818/index.html|*|file\:/C\:/sts-bundle/sts-3.9.10.RELEASE/plugins/org.springsource.ide.eclipse.commons.gettingstarted_3.9.10.201909170647-RELEASE/resources/welcome/index.html|*|
